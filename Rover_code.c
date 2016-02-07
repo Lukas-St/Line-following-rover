@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define F_CPU 20000000UL
+#define F_CPU 20000000UL//20 MHz
 #define UART_BAUD_RATE 115200
 
 #define SERVO 1//The servo is PB1
